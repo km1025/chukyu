@@ -18,7 +18,6 @@ body{
 
 .beside{
   float: left;
-  width: 300spx;
   margin: 0;
   }
 
@@ -53,7 +52,6 @@ body{
 }
 
 .brown-box{
-  float: left;
   width: 250px;
   height: 100px;
   background-color: #8c2727;
